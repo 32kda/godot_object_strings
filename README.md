@@ -1,4 +1,4 @@
-# PathObjectsPlacer
+# Godot Object Strings
 
 A custom Godot 4 Node3D tool for placing objects along a Path3D with precise spacing and positioning controls.
 Inspired by Object String feature in X-Plane flight sim, decided to do the same for Godot for quick prototyping.
@@ -23,9 +23,9 @@ Checkout/download this repo, copy "addons/" folder to the root directory of your
 ## Usage
 
 1. Create a Path3D in your scene
-2. Add the PathObjectsPlacer as a child node
+2. Add the ObjectString as a child node
 3. Assign a scene containing object to be placed, like tree or lamp post, to the `item` property
-4. Configure the placer properties in the inspector
+4. Configure the Object String properties in the inspector
 
 ## Properties
 
